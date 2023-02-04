@@ -24,8 +24,9 @@ $ cd TZInstall
 $ chmod +x Install.sh
 $ ./Install.sh
 ```
-
-
+```
+Obs.: Estou fazendo um vídeo de apoio a essa ferramenta  ʘ⁠‿⁠ʘ
+```
 # Licença:
 MIT
 
