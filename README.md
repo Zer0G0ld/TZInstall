@@ -2,6 +2,8 @@
 <br/>
 ## TZInstall
 
+<img src="https://giphy.com/gifs/script-shell-fFnDRE96pd6Ruf2zxM" alt="GIF animado">
+
 # Sobre TZInstall:
 <p>TZInstall faz parte de um projeto que estou planejando e ele ainda não está como eu gostaria mais deixarei ele disponível para quem quiser usá-lo.</p>
 <Br/>
