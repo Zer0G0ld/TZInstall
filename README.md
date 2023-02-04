@@ -2,7 +2,9 @@
 <br/>
 ## TZInstall
 
-<img src="https://giphy.com/gifs/script-shell-fFnDRE96pd6Ruf2zxM" alt="GIF animado">
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/877641811718443050/1071241916529770556/image0.gif" style="border: 5px solid white">
+</p>
 
 # Sobre TZInstall:
 <p>TZInstall faz parte de um projeto que estou planejando e ele ainda não está como eu gostaria mais deixarei ele disponível para quem quiser usá-lo.</p>
