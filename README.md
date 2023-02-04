@@ -7,15 +7,11 @@
 </p>
 
 # Sobre TZInstall:
-<p>TZInstall faz parte de um projeto que estou planejando e ele ainda não está como eu gostaria mais deixarei ele disponível para quem quiser usá-lo.</p>
-<Br/>
-<p>TZInstall foi criado pensando nos usuários Termux, ele agiliza o processo de instalação de pacotes usando o "pkg install" ou clonando repositóris do github com "git clone".</p>
-<br/>
-<p>Sintam-se a vontade para melhorar o script se quiserem   ʘ⁠‿⁠ʘ</p>
-<br/>
-<P>TZInstall é um script de instalação simples usando Shell.</p>
-<br/>
-<p>Lembrando que o script está em inglês porque gosto de deixar as coisas como padrão e passarei a deixar todos os meus futuros scripts em inglês. </p>
+* TZInstall faz parte de um projeto que estou planejando e ele ainda não está como eu gostaria mais deixarei ele disponível para quem quiser usá-lo.
+* TZInstall foi criado pensando nos usuários Termux, ele agiliza o processo de instalação de pacotes usando o "pkg install" ou clonando repositóris do github com "git clone".
+* Sintam-se a vontade para melhorar o script se quiserem   ʘ⁠‿⁠ʘ
+* TZInstall é um script de instalação simples usando Shell.
+* Lembrando que o script está em inglês porque gosto de deixar as coisas como padrão e passarei a deixar todos os meus futuros scripts em inglês. 
 
 # Instalação:
 ```
@@ -24,9 +20,9 @@ $ cd TZInstall
 $ chmod +x Install.sh
 $ ./Install.sh
 ```
-```
-Obs.: Estou fazendo um vídeo de apoio a essa ferramenta  ʘ⁠‿⁠ʘ
-```
+
+> **Obs.:** Estou fazendo um vídeo de apoio a essa ferramenta  ʘ⁠‿⁠ʘ
+
 # Licença:
 MIT
 
